@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498257328717",
+    "firebase_url": "https://uco-pressureai.firebaseio.com",
+    "project_id": "uco-pressureai",
+    "storage_bucket": "uco-pressureai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498257328717:android:edfb2896edf6f058457a04",
+        "android_client_info": {
+          "package_name": "edu.uco.dwilliams94.sensorcapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498257328717-n8h8er6amolm90rldqhvrba48f3eu3vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfg_bgItqbFRiSAwP6f7QNltyb8wG855w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498257328717-n8h8er6amolm90rldqhvrba48f3eu3vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
